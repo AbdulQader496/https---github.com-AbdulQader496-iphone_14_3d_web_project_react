@@ -41,6 +41,7 @@ function NavBar() {
           <li>
             <a className="link-styled">Accessories</a>
           </li>
+          fwEFGVSrggvgv
           <li>
             <a className="link-styled">Support</a>
           </li>
